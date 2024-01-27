@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Onur
-=======
-Sabri
->>>>>>> parent of 7b344f4 (2)
